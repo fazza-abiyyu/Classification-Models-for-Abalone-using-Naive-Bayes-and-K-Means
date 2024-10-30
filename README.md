@@ -43,3 +43,6 @@ Model regresi digunakan untuk memprediksi nilai numerik (jumlah cincin) yang ber
    ```bash
    git@github.com:fazza-abiyyu/Models-Classification.git
    cd repo
+2. Buka dan jalankan Jupyter Notebook:
+   ```bash
+   jupyter notebook Abalone_Analysis.ipynb
