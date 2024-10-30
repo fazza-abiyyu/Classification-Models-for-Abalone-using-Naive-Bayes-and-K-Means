@@ -15,7 +15,7 @@ Dataset ini terdiri dari berbagai fitur abalone, termasuk:
 - **Rings**: Jumlah cincin, yang dapat digunakan untuk memperkirakan usia abalone
 
 ### Sumber Dataset
-Dataset dapat diunduh dari [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Abalone).
+Dataset dapat diunduh dari [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1/abalone).
 
 ## Model
 ### 1. Klasifikasi
@@ -41,5 +41,5 @@ Model regresi digunakan untuk memprediksi nilai numerik (jumlah cincin) yang ber
 ## Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/fazza=abouui/repo.git
+   git@github.com:fazza-abiyyu/Models-Classification.git
    cd repo
