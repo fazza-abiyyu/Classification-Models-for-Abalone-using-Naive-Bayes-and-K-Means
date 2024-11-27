@@ -26,7 +26,11 @@ This project implements two machine learning techniques to analyze the Abalone d
     - Class 2: 0.99
 
 - **Confusion Matrix:**
-   [[354 13 4] [ 0 239 0] [ 0 0 226]]
+  ```bash
+   [[354 13 4]
+    [ 0 239 0]
+    [ 0 0 226]]
+  ```
 
 ---
 
