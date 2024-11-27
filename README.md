@@ -53,12 +53,23 @@ The Abalone dataset contains various physical measurements of abalones, includin
 - **Shell Weight**
 - **Rings** (used as the target variable for age prediction)
 
+
+## Prerequisites  
+Make sure you have the following installed on your machine:  
+- Python 3.8 or later  
+- Jupyter Notebook  
+- pip (Python package manager)
+
+
 ## How to Run
 1. Clone this repository:
    ```bash
    git@github.com:fazza-abiyyu/Classification-Models-for-Abalone-using-Naive-Bayes-and-K-Means.git
-   cd repo
-
-2. Open and run Jupyter Notebook:
+   ```
+2.Navigate to the repository folder:
+   ```bash
+    cd Classification-Models-for-Abalone-using-Naive-Bayes-and-K-Means
+  ```
+3.Open and run Jupyter Notebook:
    ```bash
    jupyter notebook Abalone_dengan_Naive_Bayes_dan_K_Means.ipynb
