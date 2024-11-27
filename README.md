@@ -56,7 +56,7 @@ The Abalone dataset contains various physical measurements of abalones, includin
 ## How to Run
 1. Clone this repository:
    ```bash
-   git@github.com:fazza-abiyyu/Models-Classification.git
+   git@github.com:fazza-abiyyu/Classification-Models-for-Abalone-using-Naive-Bayes-and-K-Means.git
    cd repo
 
 2. Open and run Jupyter Notebook:
