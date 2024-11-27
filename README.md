@@ -1,6 +1,10 @@
 # Abalone Classification and Clustering Project
 
-This project implements two different techniques to analyze the Abalone dataset obtained from the UCI Machine Learning Repository: a classification model using Naive Bayes and a clustering model using K-Means.
+This project implements two machine learning techniques to analyze the Abalone dataset obtained from the UCI Machine Learning Repository:  
+1. **Classification Model using Naive Bayes**  
+2. **Clustering Model using K-Means**
+
+---
 
 ## Models
 
@@ -23,7 +27,9 @@ This project implements two different techniques to analyze the Abalone dataset 
 
 - **Confusion Matrix:**
    [[354 13 4] [ 0 239 0] [ 0 0 226]]
-  
+
+---
+
 ### 2. Clustering Model: K-Means
 - **Description:** This model groups the abalones into clusters based on their physical attributes using the K-Means algorithm.
 - **Best number of clusters (k):** 2
@@ -39,6 +45,7 @@ Mean Length: 0.4214
 Mean Diameter: 0.3227
 Mean Rings: 8.32
 
+---
 
 ## Dataset
 The dataset can be downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1/abalone).
@@ -53,6 +60,7 @@ The Abalone dataset contains various physical measurements of abalones, includin
 - **Shell Weight**
 - **Rings** (used as the target variable for age prediction)
 
+---
 
 ## Prerequisites  
 Make sure you have the following installed on your machine:  
@@ -60,6 +68,7 @@ Make sure you have the following installed on your machine:
 - Jupyter Notebook  
 - pip (Python package manager)
 
+---
 
 ## How to Run
 1. Clone this repository:
