@@ -26,11 +26,9 @@ This project implements two machine learning techniques to analyze the Abalone d
     - Class 2: 0.99
 
 - **Confusion Matrix:**
-  ```bash
    [[354 13 4]
     [ 0 239 0]
     [ 0 0 226]]
-  ```
 
 ---
 
@@ -54,7 +52,7 @@ Mean Rings: 8.32
 ## Dataset
 The dataset can be downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1/abalone).
 The Abalone dataset contains various physical measurements of abalones, including:
-- **Sex:** (M, F, I)
+- **Sex:** (M = Male, F = Female, I = Infant) 
 - **Length**
 - **Diameter**
 - **Height**
