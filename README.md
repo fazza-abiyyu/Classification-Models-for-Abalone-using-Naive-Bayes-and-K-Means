@@ -61,4 +61,4 @@ The Abalone dataset contains various physical measurements of abalones, includin
 
 2. Open and run Jupyter Notebook:
    ```bash
-   jupyter notebook Abalone_Analysis.ipynb
+   jupyter notebook Abalone_dengan_Naive_Bayes_dan_K_Means.ipynb
